@@ -1,21 +1,25 @@
-# Lab 2:
+# Lab 2
 
-## Variant 22:
+## Variant 17
 
-### Report: [БД_КП81_ЛР2_Янковський_Дмитро.pdf](lab_reports/БД_КП81_ЛР2_Янковський_Дмитро.pdf)
-
+### Report: [Римаренко Ілля Звіт](https://docs.google.com/document/d/17ZdfCYYT3ZDMxUWPS8VKz9A44eZMwNvI09TPA0VJtpU/edit?usp=sharing)
 ### Screenshots:
 
-![](lab_reports/db_schema.png)
+![](db_schema.png)
 
 ### CLI commands(lab2 specific):
-Get developers - `python3 db_labs/cli/__init__.py --option get_developers`
+Get companies - `python3 db_labs/cli/__init__.py --option get_companies`.
+Returns first 20 results.
 
-Search for developers - `python3 db_labs/cli/__init__.py --option search_developers`
+Search for companies - `python3 db_labs/cli/__init__.py --option search_companies`
+Returns first 20 results that match the query.
 
-Create developer - `python3 db_labs/cli/__init__.py --option create_developer`
+Create company - `python3 db_labs/cli/__init__.py --option create_company`
+Creates new company.
 
-Update developer by id - ` python3 db_labs/cli/__init__.py --option update_developer `
+Update company by id - ` python3 db_labs/cli/__init__.py --option update_company `
+Updates company by given id.
+
 ### Prerequisites:
 
 ```
