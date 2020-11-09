@@ -2,7 +2,8 @@
 
 ## Variant 17
 
-### Report: [Римаренко Ілля Звіт](https://docs.google.com/document/d/17ZdfCYYT3ZDMxUWPS8VKz9A44eZMwNvI09TPA0VJtpU/edit?usp=sharing)
+### Report1: [Римаренко Ілля Звіт Лаб1](https://docs.google.com/document/d/1EVRUkHbinG_9iNSauilJFgSH5-B-34Y7x3plCCV9tBg/edit?usp=sharing)
+### Report2: [Римаренко Ілля Звіт Лаб2](https://docs.google.com/document/d/17ZdfCYYT3ZDMxUWPS8VKz9A44eZMwNvI09TPA0VJtpU/edit?usp=sharing)
 ### Screenshots:
 
 ![](db_schema.png)
